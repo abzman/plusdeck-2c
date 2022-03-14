@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_overlap|4351020|19280185|b53297b9-b708-4ab8-87e2-5856dafbf067|9b52db44-d7de-4fdd-bf98-b91b7e70bfef",
+        "silk_overlap|4564985|32200000|63d57e58-1d9b-44cb-8e5e-34d48fa96f84|1aed41db-dfd3-4b90-b7a1-5c94e9557cf1",
+        "silk_overlap|4673800|45200000|d901abd5-91b2-41ed-b520-c8d0d63a98b1|46e9332d-c795-4bf9-ac30-672c9f0dc01b"
+      ],
       "meta": {
         "version": 2
       },
